@@ -1,8 +1,8 @@
-# <p align="center"> Todo List :clipboard:</p>
+# <p align="center"> Calculadora IMC :heavy_multiplication_x::heavy_plus_sign::heavy_minus_sign::heavy_division_sign: p>
 
 ## Descrição ✏️
 
-Simples projeto para estudos de JavaScript, envolvendo também simples HTML e CSS
+Simples projeto para estudos de JavaScript, envolvendo também simples HTML e CSS, Calculadora que calcula o IMC de pessoas.
 
 ## Status: :heavy_check_mark:
 
