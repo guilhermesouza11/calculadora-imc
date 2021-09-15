@@ -1,4 +1,4 @@
-# <p align="center"> Calculadora IMC :heavy_multiplication_x::heavy_plus_sign::heavy_minus_sign::heavy_division_sign: p>
+# <p align="center"> Calculadora IMC :heavy_multiplication_x::heavy_plus_sign::heavy_minus_sign::heavy_division_sign:
 
 ## Descrição ✏️
 
